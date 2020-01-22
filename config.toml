@@ -1,4 +1,177 @@
-baseURL = "http://example.org/"
+baseURL = "https://etchegom.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My resume"
 theme = "devresume"
+
+[params]
+    author = "Matthieu Etchegoyen"
+    description = "CV"
+    primaryColor = "#FF0001"
+    textPrimaryColor = "#292929"
+
+    [params.profile]
+        enable = true
+        name = "Matthieu Etchegoyen"
+        tagline = "Freelance Software Engineer"
+        avatar = "avatar.png"
+
+    # [params.contact]
+    #     enable = true
+    #     location = "Bordeaux"
+
+    #     [[params.contact.list]]
+    #     style = "fas"
+    #     icon = "fa-phone-square"
+    #     url = "tel:#"
+    #     text = "+33603547110"
+    #     [[params.contact.list]]
+    #     style = "fas"
+    #     icon = "fa-envelope-square"
+    #     url = "mailto:#"
+    #     text = "etchegom@gmail.com"
+    #     [[params.contact.list]]
+    #     style = "fas"
+    #     icon = "fa-globe"
+    #     url = "#"
+    #     text = "https://etchegom.github.io/"
+
+    # [params.skills]
+    #     enable = true
+
+    #     [[params.skills.list]]
+    #     title = "Technical"
+    #     [[params.skills.list.items]]
+    #     details = "Python/Django/DRF/Flask"
+    #     [[params.skills.list.items]]
+    #     details = "PostgreSQL/MongoDB/Elasticsearch"
+    #     [[params.skills.list.items]]
+    #     details = "Celery/Redis"
+    #     [[params.skills.list.items]]
+    #     details = "Design and implement database structures"
+    #     [[params.skills.list.items]]
+    #     details = "set up REST APIs and micro-services architectures"
+    #     [[params.skills.list.items]]
+    #     details = "Lead and deliver complex software systems"
+    #     [[params.skills.list.items]]
+    #     details = "Lead and deliver complex software systems"
+
+    # [params.education]
+    #     enable = true
+
+    #     [[params.education.list]]
+    #     degree = "DUT Informatique"
+    #     university = "IUT Informatique Bayonne, France"
+    #     dates = "2001 - 2003"
+
+    # [params.languages]
+    #     enable = true
+
+    #     [[params.languages.list]]
+    #     name = "French"
+    #     level = "Native"
+    #     [[params.languages.list]]
+    #     name = "English"
+    #     level = "Professional"
+
+    # [params.interests]
+    #     enable = true
+
+    #     [[params.interests.list]]
+    #     name = "Music : guitar, bass and DAW"
+    #     [[params.interests.list]]
+    #     name = "Sports: moutain bike and snowboarding"
+    #     [[params.interests.list]]
+    #     name = "Trips: fun is in discovery!"
+
+    # [params.summary]
+    #     enable = true
+    #     text = "Summarise your career here. Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+
+    # [params.experience]
+    #     enable = true
+
+    #     [[params.experience.list]]
+    #     title = "Software Engineer"
+    #     dates = "Oct 2019 - Present"
+    #     company = "Freelance"
+    #     details = "<span style=\"color:red\">TODO: ...</span>"
+    #     [[params.experience.list.items]]
+    #     details = "Backend developement for company [Jestocke.com](https://Jestocke.com), using Django"
+    #     [[params.experience.list.items]]
+    #     details = "Scrape data for company [Jestocke.com](https://Jestocke.com), using [scrapy](https://scrapy.org/), Postresql and [Metabase](https://www.metabase.com/)"
+
+    #     [[params.experience.list]]
+    #     title = "Backend Software Engineer"
+    #     dates = "Jan 2018 - Aug 2019"
+    #     company = "Allomedia"
+    #     details = "[Allomedia](https://www.allo-media.net/) <span style=\"color:red\">TODO: company description + describe my role in the company (backend dev, lead dev, devops, industrialisation)</span>"
+    #     [[params.experience.list.items]]
+    #     details = "Lorem ipsum dolor sit amet, consectetuer."
+    #     [[params.experience.list.items]]
+    #     details = "Aenean commodo ligula eget dolor."
+    #     [[params.experience.list.items]]
+    #     details = "Etiam ultricies nisi vel augue."
+
+    #     [[params.experience.list]]
+    #     title = "Senior Software Engineer"
+    #     dates = "Sep 2017 - Jan 2018"
+    #     company = "Cap Gemini"
+    #     details = "blah blah ..."
+
+    #     [[params.experience.list]]
+    #     title = "Fullstack Developer"
+    #     dates = "2017"
+    #     company = "Freelance for Animad"
+    #     details = "Extra project, blah blah ..."
+
+    #     [[params.experience.list]]
+    #     title = "Software Engineer"
+    #     dates = "Jan 2014 - Dec 2017"
+    #     company = "Jobijoba"
+    #     details = "[Jobijoba](https://www.jobijoba.com/fr/) blah blah ..."
+
+    # [params.projects]
+    #     enable = true
+
+    #     [[params.projects.list]]
+    #     title = "Project Lorem Ipsum"
+    #     meta = "Open Source"
+    #     tagline = "You can use this section for your side projects. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+
+    #     [[params.projects.list]]
+    #     title = "Project Sed Fringilla"
+    #     meta = "Open Source"
+    #     tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+
+    #     [[params.projects.list]]
+    #     title = "Project Praesent"
+    #     meta = "Open Source"
+    #     tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+
+    # [params.information]
+    #     enable = true
+
+    #     [[params.information.list]]
+    #     title = "Papers"
+    #     [[params.information.list.items]]
+    #     details = "2018 · Lorem Ipsum"
+    #     [[params.information.list.items]]
+    #     details = "2016 · Sed Fringilla"
+
+    #     [[params.information.list]]
+    #     title = "Interests"
+    #     details = "Climbing, Snowboarding, Photography, Travelling"
+
+    # [params.social]
+    #     enable = true
+
+    #     [[params.social.list]]
+    #     style = "fab"
+    #     icon = "fa-github-square"
+    #     url = "//github.com/etchegom"
+    #     title = "username"
+    #     [[params.social.list]]
+    #     style = "fab"
+    #     icon = "fa-linkedin"
+    #     url = "https://www.linkedin.com/in/matthieu-etchegoyen-1729205a/"
+    #     title = "username"
