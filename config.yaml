@@ -1,0 +1,184 @@
+baseURL: "https://etchegom.github.io/"
+languageCode: en-us
+theme: devresume
+
+DefaultContentLanguage: en
+
+params:
+    author: Matthieu Etchegoyen
+    description: CV
+    primaryColor: "#FF0001"
+    textPrimaryColor: "#292929"
+
+    profile:
+        enable: true
+        name: Matthieu Etchegoyen
+        tagline: Freelance Software Engineer
+        avatar: avatar.png
+
+    contact:
+        enable: true
+        location: Bordeaux
+        list:
+            - style: fas
+              icon: fa-phone-square
+              url: "tel:#"
+              text: "+33603547110"
+
+            - style: fas
+              icon: fa-envelope-square
+              url: "mailto:#"
+              text: etchegom@gmail.com
+
+            - style: fas
+              icon: fa-globe
+              url: "#"
+              text: "https://etchegom.github.io/"
+
+    social:
+        enable: true
+        list:
+            - style: fab
+              icon: fa-github-square
+              url: //github.com/etchegom
+              title: github
+
+            - style: fab
+              icon: fa-linkedin
+              url: "https://www.linkedin.com/in/matthieu-etchegoyen-1729205a/"
+              title: linkedin
+
+    summary:
+        enable: true
+        text: >-
+            Summarise your career here. Donec quam felis, ultricies nec, pellentesque
+            eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
+            commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+            magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
+            ultricies nec, pellentesque eu, pretium quis, sem.  Maecenas nec odio et
+            ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus.
+            Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis
+            leo. Sed fringilla mauris sit amet nibh.
+
+    education:
+        enable: true
+        list:
+            - degree: DUT Informatique
+              university: "IUT Informatique Bayonne, France"
+              dates: 2001 - 2003
+
+    languages:
+        enable: true
+        list:
+            - name: French
+              level: Native
+            - name: English
+              level: Professional
+
+    interests:
+        enable: true
+        list:
+            - name: "Music : guitar, bass and DAW"
+            - name: "Sports: moutain bike and snowboarding"
+            - name: "Trips: fun is in discovery!"
+
+    skills:
+        enable: true
+        list:
+            - title: Dev
+              items:
+                  - details: Python/Django/DRF/Flask
+                  - details: PostgreSQL/MongoDB/Elasticsearch
+                  - details: Celery/Redis
+                  - details: Design and implement database structures
+                  - details: Set up REST APIs and micro-services architectures
+                  - details: Lead and deliver complex software systems
+                  - details: Lead and deliver complex software systems
+
+    experience:
+        enable: true
+        list:
+            - title: Software Engineer
+              dates: Oct 2019 - Present
+              company: Freelance
+              details: '<span style="color:red">TODO: ...</span>'
+              items:
+                  - details: >-
+                        Backend developement for company
+                        [Jestocke.com](https://Jestocke.com), using Django
+                  - details: >-
+                        Scrape data for company [Jestocke.com](https://Jestocke.com),
+                        using [scrapy](https://scrapy.org/), Postresql and
+                        [Metabase](https://www.metabase.com/)
+
+            - title: Backend Software Engineer
+              dates: Jan 2018 - Aug 2019
+              company: Allomedia
+              details: >-
+                  [Allomedia](https://www.allo-media.net/) <span style="color:red">TODO:
+                  company description + describe my role in the company (backend dev,
+                  lead dev, devops, industrialisation)</span>
+              items:
+                  - details: "Lorem ipsum dolor sit amet, consectetuer."
+                  - details: Aenean commodo ligula eget dolor.
+                  - details: Etiam ultricies nisi vel augue.
+
+            - title: Senior Software Engineer
+              dates: Sep 2017 - Jan 2018
+              œcompany: Cap Gemini
+              details: blah blah ...
+
+            - title: Fullstack Developer
+              œdates: "2017"
+              company: Freelance for Animad
+              details: "Extra project, blah blah ..."
+
+            - title: Software Engineer
+              dates: Jan 2014 - Dec 2017
+              company: Jobijoba
+              details: "[Jobijoba](https://www.jobijoba.com/fr/) blah blah ..."
+
+    projects:
+        enable: false
+        list:
+            - title: Project Lorem Ipsum
+              meta: Open Source
+              tagline: >-
+                  You can use this section for your side projects. Lorem ipsum dolor sit
+                  amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
+                  Aenean massa. Cum sociis natoque penatibus et magnis dis parturient
+                  montes, nascetur ridiculus mus.
+
+    information:
+        enable: false
+        list:
+            - title: Papers
+              items:
+                  - details: 2018 · Lorem Ipsum
+                  - details: 2016 · Sed Fringilla
+            - title: Interests
+              details: "Climbing, Snowboarding, Photography, Travelling"
+
+languages:
+    en:
+        title: My online resume
+        weight: 1
+
+    fr:
+        title: Mon CV en ligne
+        weight: 2
+
+        interests:
+            enable: true
+            list:
+                - name: "Music : guitare, bassa et MAO"
+                - name: "Sports: VTT et snowboard"
+                - name: "Voyages: fun is in discovery!"
+
+        languages:
+            enable: true
+            list:
+                - name: Fraçais
+                  level: Natif
+                - name: Anglais
+                  level: Professionel
