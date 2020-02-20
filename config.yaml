@@ -117,26 +117,63 @@ params:
               details: >-
                   [Allomedia](https://www.allo-media.net/) <span style="color:red">TODO:
                   company description + describe my role in the company (backend dev,
-                  lead dev, devops, industrialisation)</span>
+                  lead dev, devops, industrialisation)</span>                  
+                  Solution de Call Tracking Intelligent qui analyse et relie en temps réel le parcours client aux motifs d'appels entrants.
               items:
-                  - details: "Lorem ipsum dolor sit amet, consectetuer."
-                  - details: Aenean commodo ligula eget dolor.
-                  - details: Etiam ultricies nisi vel augue.
+                  - details: Développement backend de l'outil central d'annotation des appels (Restful API Django/DRF - Postgres - Celery/Redis).
+                  - details: Mise en place d'un moteur de recherche sur les transcriptions des appels, avec Elasticsearch.
+                  - details: Devops - conteuneurisation docker et déploiements ansible, centralisation des logs (Logsout, Graylog).
+                  - details: Mise en place d'un serveur OpenID Connect implémenté en Python (SSO, identity provider).
 
             - title: Senior Software Engineer
               dates: Sep 2017 - Jan 2018
-              œcompany: Cap Gemini
+              company: Cap Gemini
               details: blah blah ...
-
-            - title: Fullstack Developer
-              œdates: "2017"
-              company: Freelance for Animad
-              details: "Extra project, blah blah ..."
+              items:
+                  - details: Avant-vente sur un projet de portail web permettant de manipuler des images satellite pour Airbus ADS (solution technique + chiffrage) et réalisation d'un POC basé sur React et Redux.
+                  - details: Réalisation d'un assistant pour un logiciel d'administration des hôpitaux de Paris (APHP) sous la forme d'un chatbot et d'un moteur de recherche.
+                  - details: Participation à la mise en place d'un projet d'ERP dans le cadre d'un programme sur le Territoire de Soins Numérique (TSN).
 
             - title: Software Engineer
               dates: Jan 2014 - Dec 2017
               company: Jobijoba
               details: "[Jobijoba](https://www.jobijoba.com/fr/) blah blah ..."
+              items:
+                  - details: Développements sur la partie backend du site jobijoba multi-pays, collecte et traitement de la donnée brut, aggregation des offres d'emploi, enrichissement de la donnée et indexation.
+                  - details: BigData, traitement de gros volumes de données dans une architecture microservices.
+                  - details: Développement backend, API Restful, moteur de recherche (Solr/Elasticsearch).
+                  - details: Développement d'applications natives Android / IOS.
+                  - details: Management d'équipe agile.
+                  - details: Supervision, reporting et tests automatisés.
+                  - details: Industrialisation et virtualisation de services, conteuneurisation d'applications avec Docker.
+                  - details: Web scraping sur de gros volumes de donnée (Scrapy, MongoDB).
+
+            - title: Developpeur C++ / Python
+              dates: 2011 - 2013
+              company: F-Secure
+              details: "[F-Secure](https://www.f-secure.com/fr/home) is a finish company blah blah ..."
+              items:
+                  - details: Développement de logiciels destinés au grand public, dans le domaine du «cloud computing» et de la sécurité informatique.
+                  - details: Développement de clients riches cross-platform en C++/QT pour la sauvegarde en ligne, le partage et la synchronisation de fichiers (nouvelles fonctionnalités, maintenance et correction de bugs)
+                  - details: Amélioration du processus de développement, méthodes agiles et automatisation des tests.
+                  - details: Développement de programmes de tests de validation en Python.
+                  - details: Participation aux journées d’innovation, développement de prototypes, applications embarquées sur NAS, applications mobiles Android
+                  - details: Méthodes agiles appliquées quotidiennement, Scrum, Kanban, TDD, intégration continue
+                  - details: Travail collaboratif à distance avec des équipes en Europe, via systèmes de visioconférence etréseaux de communication
+                  - details: Pratique quotidienne de l’anglais
+
+            - title: Développeur C++
+              dates: 2003 - 2011
+              company: DCNS
+              details: "[DCNS (Naval Group)](https://www.naval-group.com/fr/) blah blah ..."
+              items:
+                  - details: Développement de simulateurs pour les navires armés.
+                  - details: Livraison de solutions clé en main, pour la marine française et les marines étrangères, servant principalement d’outils de formation pour les marins.
+                  - details: Développement d'une IHM sonar en C++/QT d'un simulateur tactique pour la formation générique aux opérations navales.
+                  - details: Développement d'une interface de communication HLA/DIS (spécification d'architecture logicielle qui définit comment créer une simulation globale composée de simulations distribuées interagissant entre elles).
+                  - details: Moteur de simulation générateur d'environnement, offrant une situation tactique jouable par le biais de scénarios dynamiques et interactifs.
+                  - details: Outils logiciel de définition des besoins opérationnels des futurs sous-marins d'attaque, permettant aux marins de tester la perspicacité, l'efficacité et l'ergonomie des différentes IHM, en amont du système réel.
+                  - details: Participation à toutes les phases d’un cycle de projet (spécifications techniques, conception,réalisation, intégration, validation, documentation et tests)
 
     projects:
         enable: false
