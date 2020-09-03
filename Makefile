@@ -1,5 +1,6 @@
 start:
-	cd v1 && hugo server -D
+	#cd v1 && hugo -t devresume --themesDir ../themes server -D
+	cd v2 && hugo -t hugo-resume --themesDir ../themes server -D
 
 build:
-	hugo -D
+	cd v2 && hugo -t hugo-resume --themesDir ../themes -D
