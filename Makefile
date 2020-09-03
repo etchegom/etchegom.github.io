@@ -3,4 +3,4 @@ start:
 	cd v2 && hugo -t hugo-resume --themesDir ../themes server -D
 
 build:
-	cd v2 && hugo -t hugo-resume --themesDir ../themes -D
+	cd v2 && hugo -t hugo-resume --themesDir ../themes -D --cleanDestinationDir --minify -d ../docs
