@@ -21,7 +21,7 @@ showOpenSource = false
 showProjects = false
 showPublications = false
 showQr = false
-showSkills = false
+showSkills = true
 
 [params.google]
 
