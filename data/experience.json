@@ -27,12 +27,12 @@
         "role":"Developpeur C++ / Python",
         "company":"[F-Secure](https://www.f-secure.com/)",
         "summary":"Développement de logiciels autour de la sauvegarde en ligne et de la sécurité informatique\n- Développement de clients riches cross-platform en [QT](https://www.qt.io/) pour la sauvegarde en ligne, le partage et la synchronisation de fichiers (nouvelles fonctionnalités, maintenance et correction de bugs)\n- Amélioration du processus de développement, méthodes agiles et automatisation des tests\n- Développement de programmes de tests de validation en Python\n- Participation aux journées d’innovation, développement de prototypes, applications embarquées sur NAS, applications mobiles Android\n- Méthodes agiles appliquées quotidiennement, Scrum, Kanban, TDD, intégration continue\n- Travail collaboratif à distance avec des équipes en Europe, via systèmes de visioconférence et réseaux de communication\n- Pratique quotidienne de l’anglais",
-        "range":"Janvier 2011 - Mars 2013"
+        "range":"2011 - 2013"
     },
     {
         "role":"Développeur C++/QT",
         "company":"[Naval Group (ex DCNS)](https://www.naval-group.com/)",
         "summary":"Maître d’œuvre industriel, concepteur et intégrateur d’ensemble des navires armés et des systèmes de combat, leader européen du naval de défense et acteur majeur dans le monde\n- Développement de simulateurs livrés sous la forme de solutions clé en main, pour la marine française et les marines étrangères, servant principalement d’outils de formation pour les marins\n- Développement d'une IHM sonar en [QT](https://www.qt.io/) d'un simulateur tactique pour la formation générique aux opérations navales\n- Développement d'une interface de communication HLA/DIS (spécification d'architecture logicielle qui définit comment créer une simulation globale composée de simulations distribuées interagissant entre elles)\n- Moteur de simulation générateur d'environnement, offrant une situation tactique jouable par le biais de scénarios dynamiques et interactifs\n- Outils logiciel de définition des besoins opérationnels des futurs sous-marins d'attaque, permettant aux marins de tester la perspicacité, l'efficacité et l'ergonomie des différentes IHM, en amont du système réel\n- Participation à toutes les phases d’un cycle de projet (spécifications techniques, conception,réalisation, intégration, validation, documentation et tests)",
-        "range":"Novembre 2003 - Décembre 2011"
+        "range":"2003 - 2011"
     } 
 ]
