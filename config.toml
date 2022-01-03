@@ -18,10 +18,11 @@ profileImage = "img/avatar.jpg"
 showEducation = true
 showExperience = true
 showOpenSource = false
-showProjects = false
+showProjects = true
 showPublications = false
 showQr = false
 showSkills = true
+coloredSkills = true
 
 [params.google]
 

@@ -9,10 +9,13 @@
     ]
   },
   {
-    "grouping": "Operating Systems & Tools",
+    "grouping": "Systèmes d'exploitation",
     "skills": [
       "Linux",
-      "Windows",
+      {
+        "name": "Windows",
+        "icon": "windows8"
+      },
       "Android",
       {
         "name": "MacOS/IOS",
@@ -28,6 +31,7 @@
         "name": "C++",
         "icon": "cplusplus"
       },
+      "qt",
       "Vuejs",
       "Redis",
       "Ansible",
