@@ -4,6 +4,8 @@
     "skills": [
       "Microservices",
       "Load Balancing",
+      "Scaling",
+      "Messaging",
       "RESTful APIs",
       "SaaS/PaaS/IaaS"
     ]
@@ -24,63 +26,60 @@
     ]
   },
   {
-    "grouping": "Languages, Frameworks and APIs",
+    "grouping": "Langages et frameworks",
     "skills": [
       "Python",
+      "Django",
+      "Flask",
+      "Fastapi",
       {
         "name": "C++",
         "icon": "cplusplus"
       },
-      "qt",
+      "Qt",
+      "Java",
       "Vuejs",
-      "Redis",
-      "Ansible",
-      "Git",
-      {
-        "name": "Bash",
-        "icon": ""
-      }
+      "Bash"
     ]
   },
   {
-    "grouping": "Platform Development & Administration",
+    "grouping": "Platformes & outils",
     "skills": [
+      "Git",
       "Github",
+      "CircleCI",
       "Jenkins",
+      "NGINX",
+      "Docker",
+      "Webpack",
+      "Vagrant",
+      "Ansible",
       "Grafana",
-      "NGINX"
+      "OpendID-Connect"
     ]
   },
   {
-    "grouping": "Data Management",
+    "grouping": "Data management",
     "skills": [
       "Postgresql",
       "MongoDB",
+      "SQLAlchemy",
       {
-        "name": "Elasticsearch",
-        "icon": "database"
-      }
+        "name": "Django-ORM",
+        "icon": "django"
+      },
+      "Redis",
+      "Elasticsearch"
     ]
   },
   {
-    "grouping": "Containers & Cloud",
+    "grouping": "Méthodologie agile",
     "skills": [
-      {
-        "name": "Docker",
-        "link": "https://docker.com"
-      },
-      {
-        "name": "AWS",
-        "link": "https://aws.amazon.com"
-      },
-      {
-        "name": "Google Cloud",
-        "link": "https://cloud.google.com"
-      },
-      {
-        "name": "Linux",
-        "link": "https://bosh.io"
-      }
+      "Scrum",
+      "Kanban",
+      "Backlog grooming",
+      "TDD"
     ]
+
   }
 ]
