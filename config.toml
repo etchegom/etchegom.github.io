@@ -6,6 +6,7 @@ PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
 enableGitInfo = false
+defaultContentLanguage = "en"
 
 [params]
 address = "Cestas, France"
@@ -21,13 +22,15 @@ showOpenSource = false
 showProjects = true
 showPublications = false
 showQr = false
-showSkills = true
+showSkills = false
 coloredSkills = true
+showCertifications = false
+showSocialization = true
 
 [params.google]
 
 [params.google.analytics]
-trackerID = "XX-123446-01"
+trackerID = ""
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/matthieu-etchegoyen-1729205a/"
