@@ -9,4 +9,13 @@ outputs:
 - rss
 - json
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.
+
+Développeur depuis plus de 15 ans, j'ai eu la chance de pouvoir travailler pour différentes entreprises dans des domaines variés et des contextes différents. 
+<!-- Dans l'industrie, startup, en full-remote ou en présentiel, dans des entreprises internationales ou des PME, etc.) -->
+
+Aujourd'hui mon savoir-faire principale est le développement web backend en Python (RESTFul API, workers, microservices). Cependant, mon parcours professionnel m'a permis d'ajouter d'autres cordes à mon arc et j'ai donc des compétences sur différentes thématiques: développement mobile, desktop cross-platform, frontend, mai aussi du devops ou de la gestion de projet.
+
+Adepte des méthodes agiles, j'aime travailler en appliquant au maximum les bonnes pratiques.
+Curieux de nature, j'aime également sortir de ma zone de confort pour me confronter à des environnements que je ne connais pas. Je fais de la veille technologique régulièrement et j'essaye de toujours me former sur des nouvelles technologies ou bien approfondir mes connaissances sur les outils que je maîtrise déjà.
+
+Ce qui me plait et me motive aujourd'hui, c'est d'accompagner des équipes de développement agiles, les aider dans les stratégies et solutions à mettre en place et apporter ma pierre à l'édifice grâce à mon bagage technique et à mon expérience.

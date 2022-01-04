@@ -29,6 +29,9 @@
     "grouping": "Langages et frameworks",
     "skills": [
       "Python",
+      "Django",
+      "Flask",
+      "Fastapi",
       {
         "name": "C++",
         "icon": "cplusplus"
@@ -48,12 +51,10 @@
       "Jenkins",
       "NGINX",
       "Docker",
-      "Redis",
+      "Webpack",
       "Vagrant",
       "Ansible",
-      "Kibana",
       "Grafana",
-      "Prometheus",
       "OpendID-Connect"
     ]
   },
@@ -62,10 +63,13 @@
     "skills": [
       "Postgresql",
       "MongoDB",
+      "SQLAlchemy",
       {
-        "name": "Elasticsearch",
-        "icon": "database"
-      }
+        "name": "Django-ORM",
+        "icon": "django"
+      },
+      "Redis",
+      "Elasticsearch"
     ]
   },
   {
