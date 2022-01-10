@@ -55,7 +55,8 @@
       "Vagrant",
       "Ansible",
       "Grafana",
-      "OpendID-Connect"
+      "OpendID-Connect",
+      "demo"
     ]
   },
   {
