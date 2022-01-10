@@ -30,7 +30,7 @@ showSocialization = true
 [params.google]
 
 [params.google.analytics]
-trackerID = ""
+trackerID = "UA-44165832-1"
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/matthieu-etchegoyen-1729205a/"
