@@ -37,8 +37,8 @@
         "icon": "cplusplus"
       },
       "Qt",
-      "Java",
       "Vuejs",
+      "Qausar",
       "Bash"
     ]
   },
@@ -55,8 +55,7 @@
       "Vagrant",
       "Ansible",
       "Grafana",
-      "OpendID-Connect",
-      "demo"
+      "OpendID-Connect"
     ]
   },
   {

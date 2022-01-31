@@ -2,13 +2,13 @@
     {
         "role":"Développeur freelance",
         "company":"[Jestocke.com](https://www.jestocke.com/)",
-        "summary":"Service en ligne de solutions de stockage pour les particuliers et les pro\n- Refonte complète du site v2, développement backend [Django](https://www.djangoproject.com/) et frontend [Vuejs](https://vuejs.org/)\n- Mise à jour de la brique de paiement basée sur [Mangopay](https://www.mangopay.com)\n- Scraping de données pour alimenter un dashboard [Metabase](https://www.metabase.com/)",
+        "summary":"Service en ligne de solutions de stockage pour les particuliers et les pro\n- Refonte complète du site v2, développement backend [Django](https://www.djangoproject.com/) et frontend [Vuejs](https://vuejs.org/)\n- Mise à jour de la brique de paiement basée sur [Mangopay](https://www.mangopay.com)\n- Scraping de données pour alimenter un dashboard [Metabase](https://www.metabase.com/)\n- Mise en place signature électronique avec [Docusign](https://www.docusign.fr/)\n- Pipelines de déploiement sur [Heroku](https://www.heroku.com/)",
         "range":"Octobre 2019 - Aujourd'hui"
     },
     {
         "role":"Développeur backend",
         "company":"[Allomedia](https://www.allo-media.net/)",
-        "summary":"Solution de Call Tracking intelligent qui analyse et relie en temps réel le parcours client aux motifs d'appels entrants\n- Développement backend de l'outil central d'annotation des appels\n- Mise en place d'un moteur de recherche [Elasticsearch](https://www.elastic.co/) sur les transcriptions des appels\n- Conteuneurisation docker et déploiements [Ansible](https://docs.ansible.com/ansible/latest/index.html#), centralisation des logs.\n- Mise en place d'un serveur [OpenID Connect](https://openid.net/connect/) implémenté en Python (SSO, identity provider)",
+        "summary":"Solution de Call Tracking intelligent qui analyse et relie en temps réel le parcours client aux motifs d'appels entrants\n- Développement backend de l'outil central d'annotation des appels\n- Mise en place d'un moteur de recherche [Elasticsearch](https://www.elastic.co/) sur les transcriptions des appels\n- Mise en place d'un serveur [OpenID Connect](https://openid.net/connect/) implémenté en Python (SSO, identity provider)\n- Conteuneurisation docker et déploiements [Ansible](https://docs.ansible.com/ansible/latest/index.html#) sur serveurs dédiés\n- Centralisation des logs avec [Logspout](https://github.com/gliderlabs/logspout) et [Graylog](https://graylog.fr/)",
         "range":"Janvier 2018 - Août 2019"
     },
     {
@@ -20,7 +20,7 @@
     {
         "role":"Développeur backend / mobile",
         "company":"[Jobijoba](https://www.jobijoba.com/)",
-        "summary":"Développements sur la partie backend du site jobijoba multi-pays, collecte et traitement de la donnée brut, aggregation des offres d'emploi, enrichissement de la donnée et indexation\n- Traitement de gros volumes de données dans une architecture microservices\n- Développement backend, API Restful, moteur de recherche (Solr/[Elasticsearch](https://www.elastic.co/))\n- Développement d'applications natives Android / IOS\n- Management d'équipe agile\n- Supervision, reporting et tests automatisés\n- Industrialisation et virtualisation de services, conteuneurisation d'applications avec Docker\n- Web scraping sur de gros volumes de donnée ([Scrapy](https://scrapy.org/), [MongoDB](https://www.mongodb.com/))",
+        "summary":"Développements sur la partie backend du site jobijoba multi-pays, collecte et traitement de la donnée brut, aggregation des offres d'emploi, enrichissement de la donnée et indexation\n- Traitement de gros volumes de données dans une architecture microservices\n- Développement backend, API Restful, moteur de recherche (Solr/[Elasticsearch](https://www.elastic.co/))\n- Développement d'applications natives Android / IOS\n- Management d'équipe agile\n- Supervision, reporting et tests automatisés\n- Industrialisation et virtualisation de services, conteuneurisation d'applications avec Docker\n- Gestion des déploiements sur serveurs dédiés OVH\n- Web scraping sur de gros volumes de donnée ([Scrapy](https://scrapy.org/), [MongoDB](https://www.mongodb.com/))",
         "range":"Janvier 2014 - Décembre 2017"
     },
     {
