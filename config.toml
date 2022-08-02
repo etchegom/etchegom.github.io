@@ -1,6 +1,6 @@
 title = "Matthieu Etchegoyen"
 baseURL = "https://etchegom.github.io/"
-theme = "hugo-resume"
+theme = "hugo-resume-custom"
 languageCode = "fr-fr"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true

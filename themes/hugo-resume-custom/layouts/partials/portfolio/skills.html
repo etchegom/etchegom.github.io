@@ -1,0 +1,29 @@
+<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
+  <div class="my-auto" id="skills-content">
+    <h2 class="mb-5">Compétences</h2>
+    {{ range $.Site.Data.skills }}
+        <div class="subheading mb-3 skills-heading">{{ .grouping }}</div>
+            <ul>
+            {{ $coloredSkills := cond ($.Site.Params.coloredSkills) ("colored") ("") }}
+            {{ range .skills }}
+                {{ if isset . "name" }}
+                    {{ $devIcon := cond (isset . "icon") (lower .icon) (lower .name) }}
+                    <li class="list-inline-item">
+                      <i class="devicon-{{ $devIcon }}-plain {{ $coloredSkills }}"></i>
+                      {{if isset . "link"}}
+                          <a href="{{.link}}">{{ .name }}</a>
+                      {{ else }}
+                          {{ .name }}
+                      {{ end }}
+                    </li>
+                {{ else }}
+                  <li class="list-inline-item">
+                    <i class="devicon-{{ lower . }}-plain {{ $coloredSkills }}"></i>
+                    {{ . }}
+                  </li>
+                {{ end }}
+            {{ end }}
+            </ul>
+    {{ end }}
+  </div>
+</section>
