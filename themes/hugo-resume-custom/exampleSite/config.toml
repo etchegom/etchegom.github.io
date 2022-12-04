@@ -10,7 +10,7 @@ enableGitInfo = false
 [params]
 address = "Rollinsford, NH"
 email = "email@domain.com"
-favicon = "/favicon.ico"
+favicon = "/favicon.png"
 firstName = "Eddie"
 lastName = "Webb"
 phone = "1-555-555-1234"
