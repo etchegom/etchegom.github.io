@@ -1,44 +1,44 @@
 [
     {
-        "role":"Développeur fullstack - freelance",
-        "company":"[Silvr](https://www.silvr.co/)",
-        "summary":"Leader français du Revenue-Based Financing (RBF).\n- Développement d'outils internes pour automatiser la gestion des factures et des documents clients [Django](https://www.djangoproject.com/) and [AlpinesJS](https://alpinejs.dev/) / [HTMx](https://htmx.org/) / [Tailwindcss](https://tailwindcss.com/)",
+        "role":"Développeur Fullstack - freelance",
+        "company":"### [Silvr](https://www.silvr.co/)\n\nLeader français du Revenue-Based Financing",
+        "summary":"Développement Fullstack ([Django](https://www.djangoproject.com/) / [AlpinesJS](https://alpinejs.dev/) / [HTMX](https://htmx.org/) / [Tailwindcss](https://tailwindcss.com/)), sur l'application principale de la société (Monolith), en intéropérabilité avec Stripe et Hubspot.\n- Développement Fullstack sur le backoffice, permettant la gestion des factures client et des documents financiers / KYC par les risk-analysts\n- Refactoring sur l'appli Django (optimisation des requetes en base, meilleure gestion des settings par environnement, etc.)\n- Synchronisation Django / Hubspot.",
         "range":"Avril 2022 - Aujourd'hui"
     },
     {
-        "role":"Développeur fullstack - freelance",
-        "company":"[Jestocke.com](https://www.jestocke.com/)",
-        "summary":"Service en ligne de solutions de stockage pour les particuliers et les pro\n- Refonte complète du site v2, développement backend [Django](https://www.djangoproject.com/) et frontend [Vuejs](https://vuejs.org/)\n- Mise à jour de la brique de paiement basée sur [Mangopay](https://www.mangopay.com)\n- Scraping de données pour alimenter un dashboard [Metabase](https://www.metabase.com/)\n- Mise en place signature électronique avec [Docusign](https://www.docusign.fr/)\n- Pipelines de déploiement sur [Heroku](https://www.heroku.com/)",
+        "role":"Développeur Fullstack - freelance",
+        "company":"### [Jestocke.com](https://www.jestocke.com/)\n\nService en ligne de solutions de stockage pour les particuliers et les pro",
+        "summary":"Développement Fullstack sur le site.\n\n- Refonte complète du site v2, développement backend [Django](https://www.djangoproject.com/) et frontend [Vuejs](https://vuejs.org/)\n- Refonte de la map de recherche avec mise en place d'un index [Elasticsearch](https://www.elastic.co/) pour améliorer la recherche par proximité\n- Mise à jour de la brique de paiement basée sur [Mangopay](https://www.mangopay.com)\n- Scraping de données pour alimenter un dashboard [Metabase](https://www.metabase.com/)\n- Mise en place signature électronique avec [Docusign](https://www.docusign.fr/)\n- Pipelines de déploiement sur [Heroku](https://www.heroku.com/)",
         "range":"Octobre 2019 - Mars 2022"
     },
     {
         "role":"Développeur backend - CDI",
-        "company":"[Allomedia](https://www.allo-media.net/)",
-        "summary":"Solution de Call Tracking intelligent qui analyse et relie en temps réel le parcours client aux motifs d'appels entrants\n- Développement backend de l'outil central d'annotation des appels\n- Mise en place d'un moteur de recherche [Elasticsearch](https://www.elastic.co/) sur les transcriptions des appels\n- Mise en place d'un serveur [OpenID Connect](https://openid.net/connect/) implémenté en Python (SSO, identity provider)\n- Conteuneurisation docker et déploiements [Ansible](https://docs.ansible.com/ansible/latest/index.html#) sur serveurs dédiés\n- Centralisation des logs avec [Logspout](https://github.com/gliderlabs/logspout) et [Graylog](https://graylog.fr/)",
+        "company":"### [Allomedia](https://www.allo-media.net/)\n\nSolution de Call Tracking intelligent qui analyse et relie en temps réel le parcours client aux motifs d'appels entrants",
+        "summary":"- Développement backend de l'outil central d'annotation des appels (API REST [Django DRF](https://www.django-rest-framework.org/))\n- Mise en place d'un moteur de recherche [Elasticsearch](https://www.elastic.co/) sur les transcriptions des appels\n- Mise en place d'un serveur [OpenID Connect](https://openid.net/connect/) implémenté en Python (SSO, identity provider)\n- Conteuneurisation docker et déploiements [Ansible](https://docs.ansible.com/ansible/latest/index.html#) sur serveurs dédiés\n- Centralisation des logs avec [Logspout](https://github.com/gliderlabs/logspout) et [Graylog](https://graylog.fr/)",
         "range":"Janvier 2018 - Août 2019"
     },
     {
         "role":"Développeur sénior - CDI",
-        "company":"[Cap Gemini](https://www.capgemini.com/)",
+        "company":"### [Cap Gemini](https://www.capgemini.com/)",
         "summary":"- Avant-vente sur un projet de portail web permettant de manipuler des images satellite pour Airbus ADS: présentation d'une solution technique, chiffrage, réalisation d'un POC en [React](https://fr.reactjs.org/)\n- Réalisation d'un assistant pour un logiciel d'administration des hôpitaux de Paris (APHP) sous la forme d'un chatbot et d'un moteur de recherche\n- Participation à la mise en place d'un projet d'ERP basé sur [Odoo](https://www.odoo.com/) dans le cadre d'un programme sur le Territoire de Soins Numérique (TSN)",
         "range":"Septembre 2017 - Janvier 2018"
     },
     {
         "role":"Développeur backend / mobile - CDI",
-        "company":"[Jobijoba](https://www.jobijoba.com/)",
-        "summary":"Développements sur la partie backend du site jobijoba multi-pays, collecte et traitement de la donnée brut, aggregation des offres d'emploi, enrichissement de la donnée et indexation\n- Traitement de gros volumes de données dans une architecture microservices\n- Développement backend, API Restful, moteur de recherche (Solr/[Elasticsearch](https://www.elastic.co/))\n- Développement d'applications natives Android / IOS\n- Management d'équipe agile\n- Supervision, reporting et tests automatisés\n- Industrialisation et virtualisation de services, conteuneurisation d'applications avec Docker\n- Gestion des déploiements sur serveurs dédiés OVH\n- Web scraping sur de gros volumes de donnée ([Scrapy](https://scrapy.org/), [MongoDB](https://www.mongodb.com/))",
+        "company":"### [Jobijoba](https://www.jobijoba.com/)\n\nAggréagateur d'offres d'emploi / Outils RH",
+        "summary":"Développements sur la partie backend du site jobijoba multi-pays, collecte et traitement de la donnée brut, aggregation des offres d'emploi, enrichissement de la donnée et indexation\n- Traitement de gros volumes de données dans une architecture microservices\n- Développement backend, API RESTful, moteur de recherche (Solr/[Elasticsearch](https://www.elastic.co/))\n- Développement d'applications natives Android\n- Management d'équipe agile\n- Supervision, reporting et tests automatisés\n- Industrialisation et virtualisation de services, conteuneurisation d'applications avec Docker\n- Gestion des déploiements sur serveurs dédiés OVH\n- Web scraping sur de gros volumes de donnée ([Scrapy](https://scrapy.org/), [MongoDB](https://www.mongodb.com/))",
         "range":"Janvier 2014 - Décembre 2017"
     },
     {
         "role":"Developpeur C++ / Python - CDI",
-        "company":"[F-Secure](https://www.f-secure.com/)",
+        "company":"### [F-Secure](https://www.f-secure.com/)\n\nCyber-sécurité et protection de la vie privée",
         "summary":"Développement de logiciels autour de la sauvegarde en ligne et de la sécurité informatique\n- Développement de clients riches cross-platform en [QT](https://www.qt.io/) pour la sauvegarde en ligne, le partage et la synchronisation de fichiers (nouvelles fonctionnalités, maintenance et correction de bugs)\n- Amélioration du processus de développement, méthodes agiles et automatisation des tests\n- Développement de programmes de tests de validation en Python\n- Participation aux journées d’innovation, développement de prototypes, applications embarquées sur NAS, applications mobiles Android\n- Méthodes agiles appliquées quotidiennement, Scrum, Kanban, TDD, intégration continue\n- Travail collaboratif à distance avec des équipes en Europe, via systèmes de visioconférence et réseaux de communication\n- Pratique quotidienne de l’anglais",
         "range":"2011 - 2013"
     },
     {
         "role":"Développeur C++/QT - CDI",
-        "company":"[Naval Group (ex DCNS)](https://www.naval-group.com/)",
-        "summary":"Maître d’œuvre industriel, concepteur et intégrateur d’ensemble des navires armés et des systèmes de combat, leader européen du naval de défense et acteur majeur dans le monde\n- Développement de simulateurs livrés sous la forme de solutions clé en main, pour la marine française et les marines étrangères, servant principalement d’outils de formation pour les marins\n- Développement d'une IHM sonar en [QT](https://www.qt.io/) d'un simulateur tactique pour la formation générique aux opérations navales\n- Développement d'une interface de communication HLA/DIS (spécification d'architecture logicielle qui définit comment créer une simulation globale composée de simulations distribuées interagissant entre elles)\n- Moteur de simulation générateur d'environnement, offrant une situation tactique jouable par le biais de scénarios dynamiques et interactifs\n- Outils logiciel de définition des besoins opérationnels des futurs sous-marins d'attaque, permettant aux marins de tester la perspicacité, l'efficacité et l'ergonomie des différentes IHM, en amont du système réel\n- Participation à toutes les phases d’un cycle de projet (spécifications techniques, conception,réalisation, intégration, validation, documentation et tests)",
+        "company":"### [Naval Group (ex DCNS)](https://www.naval-group.com/)\n\nMaître d’œuvre industriel, concepteur et intégrateur d’ensemble des navires armés et des systèmes de combat",
+        "summary":"- Développement de simulateurs livrés sous la forme de solutions clé en main, pour la marine française et les marines étrangères, servant principalement d’outils de formation pour les marins\n- Développement d'une IHM sonar en [QT](https://www.qt.io/) d'un simulateur tactique pour la formation générique aux opérations navales\n- Développement d'une interface de communication HLA/DIS (spécification d'architecture logicielle qui définit comment créer une simulation globale composée de simulations distribuées interagissant entre elles)\n- Moteur de simulation générateur d'environnement, offrant une situation tactique jouable par le biais de scénarios dynamiques et interactifs\n- Outils logiciel de définition des besoins opérationnels des futurs sous-marins d'attaque, permettant aux marins de tester la perspicacité, l'efficacité et l'ergonomie des différentes IHM, en amont du système réel\n- Participation à toutes les phases d’un cycle de projet (spécifications techniques, conception,réalisation, intégration, validation, documentation et tests)",
         "range":"2003 - 2011"
     } 
 ]

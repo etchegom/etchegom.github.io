@@ -11,11 +11,11 @@ defaultContentLanguage = "en"
 [params]
 address = "Cestas, France"
 email = "etchegom@gmail.com"
-favicon = "/favicon.ico"
+favicon = "/favicon.png"
 firstName = "Matthieu"
 lastName = "Etchegoyen"
 phone = "+33603547110"
-profileImage = "img/avatar.jpg"
+profileImage = "img/avatar.png"
 showEducation = true
 showExperience = true
 showOpenSource = false
