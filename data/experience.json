@@ -3,7 +3,7 @@
         "role":"Développeur Fullstack - freelance",
         "company":"### [Silvr](https://www.silvr.co/)\n\nLeader français du Revenue-Based Financing",
         "summary":"Développement Fullstack ([Django](https://www.djangoproject.com/) / [AlpinesJS](https://alpinejs.dev/) / [HTMX](https://htmx.org/) / [Tailwindcss](https://tailwindcss.com/)), sur l'application principale de la société (Monolith), en intéropérabilité avec Stripe et Hubspot.\n- Développement Fullstack sur le backoffice, permettant la gestion des factures client et des documents financiers / KYC par les risk-analysts\n- Refactoring sur l'appli Django (optimisation des requetes en base, meilleure gestion des settings par environnement, etc.)\n- Synchronisation Django / Hubspot.",
-        "range":"Avril 2022 - Aujourd'hui"
+        "range":"Avril 2022 - Avril 2023"
     },
     {
         "role":"Développeur Fullstack - freelance",
