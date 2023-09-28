@@ -10,7 +10,7 @@ outputs:
 - json
 ---
 
-Hello, je suis **Matthieu Etchegoyen**, développeur expérimenté, basé en Gironde, et je propose mes services en tant que **freelance**.
+Hello, je suis **Matthieu Etchegoyen**, développeur expérimenté, basé en Gironde.
 
 Ce que j'aime faire et ce qui me motive aujourd'hui ?
 
